@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Skills
+# Main Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=&logoColor=white)
+![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+# Other Skills
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -32,7 +37,6 @@ Here are some ideas to get you started:
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@zz3434/posts)](https://velog.io/@zz3434/posts)
