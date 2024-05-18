@@ -1,4 +1,4 @@
-# Park Seung Heun 👋
+# Park Seung Heun 👋[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSeungHuen&count_bg=%2379C83D&title_bg=%232C99D9&icon=fandom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **ParkSeungHeun/ParkSeungHeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSeungHuen&count_bg=%2379C83D&title_bg=%232C99D9&icon=fandom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Skills
+### Platforms & Languages
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyekkye)](https://solved.ac/kkyekkye/)
