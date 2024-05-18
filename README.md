@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=&logoColor=white)
 
 ### Platforms
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![nvidia](https://img.shields.io/badge/nvidia-76B900.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux%20Studio&logoColor=white)
+![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=stmicroelectronics%20Studio&logoColor=white)
+![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi%20Studio&logoColor=white)
+![arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino%20Studio&logoColor=white)
+![nvidia](https://img.shields.io/badge/nvidia-76B900.svg?&style=for-the-badge&logo=nvidia%20Studio&logoColor=white)
 
 # Other Skills
 ### Platforms & Languages
