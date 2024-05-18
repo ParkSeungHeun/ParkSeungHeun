@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Main Skills
-### Platforms & Languages
+### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=&logoColor=white)
+### Platforms
 ![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # Other Skills
 ### Platforms & Languages
