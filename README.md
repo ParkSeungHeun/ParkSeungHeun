@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 # Skills
 ### Platforms & Languages
+![C](https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyekkye)](https://solved.ac/kkyekkye/)
