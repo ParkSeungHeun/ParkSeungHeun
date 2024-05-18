@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=white)
 # Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
