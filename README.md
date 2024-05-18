@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=&logoColor=white)
 
 ### FrameWorks
-![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Platforms
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
