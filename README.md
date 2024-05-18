@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 # Main Skills
 ### Languages
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
-![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 
 ### FrameWorks
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 # Other Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 # Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
