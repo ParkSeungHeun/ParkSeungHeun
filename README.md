@@ -2,6 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyekkye)](https://solved.ac/kkyekkye/)
 - 2024.09 삼성 SW B형
+  
 <!--
 **ParkSeungHeun/ParkSeungHeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,37 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Main Skills
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![shell](https://img.shields.io/badge/shell-FFD500.svg?&style=for-the-badge&logo=shell&logoColor=white)
-
-### FrameWorks
-![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-
-### Platforms
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
-![arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white)
-![nvidia](https://img.shields.io/badge/nvidia-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
-
-# Other Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-# Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![vim](https://img.shields.io/badge/vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
+## Portfolio
+-> https://www.notion.so/SeungHeun-Park-15079360269680f68011ca2bd24f34b4
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@zz3434/posts)](https://velog.io/@zz3434/posts)
