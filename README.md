@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Portfolio
--> https://www.notion.so/SeungHeun-Park-15079360269680f68011ca2bd24f34b4
+-> [https://www.notion.so/SeungHeun-Park-15079360269680f68011ca2bd24f34b4](https://curvy-aurora-f72.notion.site/SeungHeun-Park-15079360269680f68011ca2bd24f34b4)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@zz3434/posts)](https://velog.io/@zz3434/posts)
